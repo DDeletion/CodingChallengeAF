@@ -1,0 +1,113 @@
+body {
+    background-image: url("MaterialeEsercizioLim/background.jpg");
+    background-size: cover;
+    position: absolute;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+  }
+  
+.contenitore {
+    height: 620px;
+    width: 1150px;
+}
+
+.blackbox {
+    background-color: rgba(0, 0, 0, 0.6); 
+    /* semitrasparente nero */;
+
+    width: 75%;
+    height: 550px;
+    padding: 10px;
+    border-radius: 10px;
+    margin-left: 20%;
+    margin-top: 2%;
+    position: absolute;
+}
+
+.textbox {
+    color: white;
+    opacity: 1;
+    display: inline-block;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 5%;
+}
+
+header {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+    color: #04dc04;
+    opacity: 1;
+}
+
+#LIME {
+    margin-bottom: -2%;
+    /* programmatore della domenica */;
+}
+
+#AB {
+    margin-bottom: 1%;
+    opacity: 1;
+}
+
+nav {
+    background-color: #04dc04;
+    height: 30px;
+    width: 100%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    opacity: 1;
+}
+
+nav span {
+
+    display: inline-block;
+    align-items: center;
+    margin-top: 0.7%;
+    opacity: 1;
+} 
+
+main {
+    display: inline-block;
+    opacity: 100%;
+}
+
+main p {
+    margin-bottom: 0%;
+    opacity: 1;
+    font-size: small;
+    display: inline-block
+}
+
+main section span {
+    font-family: Verdana, Tahoma, sans-serif;
+    font-size: medium;
+}
+
+.StatoCaricaGino22 {
+
+    height: 25px;
+    width: 300px;
+    background-color: orange;
+    border-radius: 5%;
+}
+
+.StatoCaricaMike24 {
+
+    height: 25px;
+    width: 500px;
+    background-color: green;
+    border-radius: 5%;
+}
+
+.StatoCaricaFede154 {
+
+    height: 25px;
+    width: 100px;
+    background-color: red;
+    border-radius: 5%;
+}
+
+
+
